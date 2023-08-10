@@ -4,3 +4,5 @@ my self yogi
 
 i am learning git 
 
+now i am in git hub now iam able to push and pull data from git bash and git hub
+
