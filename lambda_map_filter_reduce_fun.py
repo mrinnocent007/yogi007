@@ -2,6 +2,9 @@
 a=lambda x : x+2
 print(a(2))
 
+b=lambda x : x**x
+print(b)
+
 #map function
 lst =[1,2,3,4,5]
 l=list(map(lambda x : x+5 , lst))
